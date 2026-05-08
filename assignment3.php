@@ -7,50 +7,41 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
-
     <div class="container mt-4">
-
         <h1 class="mb-4">My Cards Page</h1>
-
         <div class="row">
-
             <div class="col-4">
                 <div class="card">
-                    <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Card Image">
+                    <img src="brahma.webp" class="card-img-top" alt="Card Image">
                     <div class="card-body">
-                        <h5 class="card-title">Card Title 1</h5>
-                        <p class="card-text">Some quick example text to build on the card title.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <h5 class="card-title">Lord brahma</h5>
+                        <p class="card-text">The Creator.</p>
+                        <a href="#" class="btn btn-primary">One of the Supreme God.</a>
                     </div>
                 </div>
             </div>
-
             <div class="col-4">
                 <div class="card">
-                    <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Card Image">
+                    <img src="vishnu.jpg" class="card-img-top" alt="Card Image">
                     <div class="card-body">
-                        <h5 class="card-title">Card Title 2</h5>
-                        <p class="card-text">Some quick example text to build on the card title.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <h5 class="card-title">Lord Vishnu</h5>
+                        <p class="card-text">The Protector.</p>
+                        <a href="#" class="btn btn-primary">One of the Supreme God.</a>
                     </div>
                 </div>
             </div>
-
             <div class="col-4">
                 <div class="card">
-                    <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Card Image">
+                    <img src="mahesh.webp" class="card-img-top" alt="Card Image">
                     <div class="card-body">
-                        <h5 class="card-title">Card Title 3</h5>
-                        <p class="card-text">Some quick example text to build on the card title.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <h5 class="card-title">Lord Mahesh</h5>
+                        <p class="card-text">The Destroyer.</p>
+                        <a href="#" class="btn btn-primary">One of the Supreme God.</a>
                     </div>
                 </div>
             </div>
-
         </div>
-
     </div>
-
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
