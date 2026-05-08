@@ -34,7 +34,7 @@
 
     <h1>About Me</h1>
 
-    <img src="spider-man-and-gwen-stacy-4k-n1v7uo58axknt9mz.jpg" height="200" width="200">
+    <img src="Jayesh.jpeg" height="200" width="200">
 
     <p>
         Hello! My name is Jayesh Gujar. I am currently studying Computer Engineering.
